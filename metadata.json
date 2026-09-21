@@ -1,0 +1,6 @@
+{
+  "name": "ระบบประเมินผลการปฏิบัติงาน",
+  "description": "ระบบจัดทำรายงานและประเมินผลการปฏิบัติงานพนักงานราชการทั่วไป (แบบ ปผ.พนร.๑-๑ ถึง ๑-๓) รองรับการแก้ไขข้อมูล รูปภาพ และเนื้อหาได้อย่างสะดวก",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
